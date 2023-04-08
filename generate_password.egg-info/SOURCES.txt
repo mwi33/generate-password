@@ -1,0 +1,12 @@
+README.md
+setup.py
+generate_password.egg-info/PKG-INFO
+generate_password.egg-info/SOURCES.txt
+generate_password.egg-info/dependency_links.txt
+generate_password.egg-info/entry_points.txt
+generate_password.egg-info/requires.txt
+generate_password.egg-info/top_level.txt
+pkg/__init__.py
+pkg/main.py
+pkg/special_characters.py
+pkg/wordlist.py
