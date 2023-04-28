@@ -24,26 +24,26 @@ run the generate-password command
 
 ~~~ bash
 # clone repository
-mwi33@mwi33:~/projects$ git clone https://github.com/mwi33/generate-password.git
+mwi32@mwi33:~/projects$ git clone https://github.com/mwi33/generate-password.git
 
-mwi33@mwi33:~/projects$ cd generate-password
+mwi32@mwi33:~/projects$ cd generate-password
 
 # create virtualenv v-gp
-mwi33@mwi33:~/projects/generate-password$ virtualenv v-gp
+mwi32@mwi33:~/projects/generate-password$ virtualenv v-gp
 
-mwi33@mwi33:~/projects/generate-password$ cd v-gp/bin
+mwi32@mwi33:~/projects/generate-password$ cd v-gp/bin
 
 # activate virtual environment
-mwi33@mwi33:~/projects/generate-password/v-gp/bin$ source activate
+mwi32@mwi33:~/projects/generate-password/v-gp/bin$ source activate
 
 # enable the 'Click' application
-mwi33@mwi33:~/projects/generate-password$ pip install --editable .
+mwi32@mwi33:~/projects/generate-password$ pip install --editable .
 
 # return to home directory
-(v-gp) mwi33@mwi33:~/projects/generate-password/v-gp/bin$ cd ../../
+(v-gp) mwi32@mwi33:~/projects/generate-password/v-gp/bin$ cd ../../
 
 # run the command
-mwi33@mwi33:~ generate-password
+mwi32@mwi33:~ generate-password
 
 ~~~
 
