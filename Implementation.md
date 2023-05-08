@@ -55,7 +55,7 @@ Contains the main content of the application.
 * construct_digits
 * generate_random_numbers
 
-#### Variables
+#### Application Parameters and Default Values
 
 
 * number_passwords --> number of passwords to be generated --> integer --> default 10
