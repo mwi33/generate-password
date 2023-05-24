@@ -13,6 +13,7 @@ Finding the bits of entropy is calculated using the following:
  Where 'L' = the length of the password; and 'C' =  the length of the character set 
 
 Length = the number of words + the number of digits + the number of special characters
+
 Character set = the length of the wordlist + 10 + (length of special characters - length of excluded)
 
 
