@@ -171,3 +171,14 @@ def test_pwned():
     #### Cleanup ####
 
     ## NONE ##
+
+    def test_generate_password():
+        """  Testing objectives
+        1.  Run a single test which runs each indiviudal test 
+        in a logical sequence and provides an overall view of 
+        the application.
+
+        2.  Return a pass/fail for each individual test case
+        and for the entire application.
+        
+        """

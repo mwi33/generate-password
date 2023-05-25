@@ -3,9 +3,10 @@
 
 ## Table of Contents
 1. Overview of the application
-2. Installation of the applications
-3. Implementation
-4. Calculating Entropy
+2. [Installation](Installation.md) of the application
+3. [Implementation](Implementation.md)
+4. [Calculating Entropy](Calculating%20Entropy.md)
+5. [Unit testing](Unit%20Testing.md)
 
 ## Overview
 'generate-password' is a Command Line Application (CLI) built with python and the ['Click'](https://palletsprojects.com/p/click/) framework.  Click is developed and supported by the ['Pallets Project'](https://palletsprojects.com/).
